@@ -11,7 +11,7 @@ function Resume(){
                     <a className="btn btn-outline-primary" href={resume}>Download</a>
                 </div>
                 <div className="col-md-12 doc">
-                    <Document file={resume} >
+                    <Document file={resume}>
                     <Page pageNumber={1}/>
                     </Document>
                 </div>
