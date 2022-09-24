@@ -11,8 +11,8 @@ const card={
         <div className="container">
             <div className="row">
                 <div className="col-md-7 intro">
-                    <h1 className="heading">Hi There!{" "}<span className=""><i className="fa-solid fa-hand-peace"></i></span></h1>
-                    <h1>I'm <strong className="name">Anurag Jaiswal</strong></h1>
+                    <h1 className="heading">Hi There!{" "}<span className=""><i className="fa-solid fa-hand-peace"></i></span>
+                    I'm <strong className="name">Anurag Jaiswal</strong></h1>
                 </div>
                 <div className="col-md-5">
                     <img src={home_img} className='img-fluid'/>
