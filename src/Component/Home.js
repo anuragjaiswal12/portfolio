@@ -23,7 +23,7 @@ const card={
                     <div className="card" style={card}>
                         <div className="card-body">
                             <h1 className="card-text">Let me introduce myself</h1>
-                            <h3 className="card-text">I'm a programmer learing new Technologies.</h3>
+                            <h3 className="card-text">I'm a programmer learning new Technologies.</h3>
                             <h3 className="card-text">I am fluent in classics like C++, Java and Python.</h3>
                         </div>
                     </div>

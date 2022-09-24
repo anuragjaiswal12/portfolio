@@ -1,7 +1,7 @@
 [
     {
         "name":"Èrrôr_MART",
-        "about":"This project is created Asp.NET and SQLServer.",
+        "about":"This project is created using Asp.NET and SQLServer.",
         "about1":"This is an e-commerce website.",
         "about2":"This website has two modules.",
         "github":"https://github.com/anuragjaiswal12/ecommerce",
@@ -22,5 +22,13 @@
         "about2":"This script generted 3 csv file of top player data.",
         "github":"https://github.com/anuragjaiswal12/webscrapdemo",
         "url":"https://replit.com/@AnuragJaiswal3/webscrapdemo"
+    },
+    {
+        "name":"Personal Portfolio",
+        "about":"This project is created using React.js.",
+        "about1":"This is a personal portfolio website.",
+        "about2":"This website have 4 components.",
+        "github":"https://github.com/anuragjaiswal12/portfolio",
+        "url":"https://anuragjaiswal12.netlify.app/"
     }
 ]
