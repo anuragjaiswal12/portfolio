@@ -3,7 +3,6 @@ import "./Resume.css";
 import { Document, Page } from "react-pdf/dist/esm/entry.webpack";
 import resume from './../resume/resume.pdf';
 
-
 function Resume(){
     return (
         <div className="resume">

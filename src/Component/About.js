@@ -58,25 +58,25 @@ function About(){
             </div>
             <div className="row skill">
                 <h1><strong><emp>Skillset</emp></strong></h1>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={cpp} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={cs} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={python} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={asp} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={php} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={java} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={rc} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={git} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={github} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={html} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={mysql} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={mongo} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={js} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={cpp} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={cs} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={python} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={asp} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={php} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={java} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={rc} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={git} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={github} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={html} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={mysql} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={mongo} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={js} className="img-fluid" style={padding}/></div>
             </div>
             <div className="row ide">
                 <h1><strong><emp>IDE</emp></strong></h1>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={linux} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={vscode} className="img-fluid" style={padding}/></div>
-                <div className="col-md-2 col-sm-4 box" style={blur}><img src={visualstudio} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={linux} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={vscode} className="img-fluid" style={padding}/></div>
+                <div className="col-md-2 col-sm-4 col-4 box" style={blur}><img src={visualstudio} className="img-fluid" style={padding}/></div>
             </div>
         </div>
     );
