@@ -14,5 +14,8 @@
     display: none;
 }
 .react-pdf__Page__canvas{
+    display: block;
+    user-select: none;
     width: 100%;
+    height: auto;
 }
