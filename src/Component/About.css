@@ -1,0 +1,28 @@
+span,emp{
+    color: #972dc2;
+}
+.about{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 700;
+}
+.social{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 700;
+}
+.skill,.ide{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-weight: 800;
+}
+.box{
+    margin:1rem;
+}

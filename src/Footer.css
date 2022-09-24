@@ -1,0 +1,26 @@
+*{
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 800;
+    color: white;
+}
+#footer-main
+{
+    position: fixed;
+    bottom: 0;
+    min-width: 100%;
+    padding: 0;
+    width: 100%;
+    background-color: rgba(0,0,0,0.4);
+    
+}
+.row{
+    margin: 0;
+    padding: 0;
+}
+.copyright{
+    padding: 1rem;
+}
+.social i{
+    padding: 1rem;
+}

@@ -1,0 +1,15 @@
+/* *{
+    font-weight: 800;
+} */
+.intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.about{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.name{
+    color: #972dc2;
+}

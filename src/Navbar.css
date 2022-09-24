@@ -1,0 +1,23 @@
+nav{
+    background-color: rgba(0,0,0,0.4);
+}
+.nav-item{
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 800;
+    font-size: 1rem;
+    padding: 0 0.5rem;
+} 
+.navbar-brand{
+    border-radius: 1rem;
+}
+.nav-link{
+    margin:0;
+    border-radius: 1rem;
+}
+.nav-link i{
+    padding: 1rem;
+}
+#navbarSupportedContent{
+    justify-content: right;
+}

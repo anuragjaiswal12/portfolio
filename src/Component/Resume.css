@@ -1,0 +1,15 @@
+.resume{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.doc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.react-pdf__Page__textContent{
+    display: none;
+}
