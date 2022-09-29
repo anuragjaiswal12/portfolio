@@ -16,16 +16,16 @@ function Navbar({setValue}) {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active" style={white} aria-current="page" onClick={(e) => {e.preventDefault(); setValue('home')}}><i className="fa-solid fa-house-user"></i>Home</a>
+                <a className="nav-link active" style={white} aria-current="page" onClick={(e) => {e.preventDefault(); document.querySelector('.navbar-toggler').classList.add('collapsed'); document.querySelector('.navbar-collapse').classList.remove('show');  setValue('home')}}><i className="fa-solid fa-house-user"></i>Home</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); setValue('about')}}>{/*<i class="fa-solid fa-user-tie"></i>*/}<i className="fa-solid fa-user-secret"></i>About</a>
+                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); document.querySelector('.navbar-toggler').classList.add('collapsed'); document.querySelector('.navbar-collapse').classList.remove('show'); setValue('about')}}>{/*<i class="fa-solid fa-user-tie"></i>*/}<i className="fa-solid fa-user-secret"></i>About</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); setValue('project')}} href="#"><i className="fa-solid fa-file-code"></i>Project</a>
+                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); document.querySelector('.navbar-toggler').classList.add('collapsed'); document.querySelector('.navbar-collapse').classList.remove('show'); setValue('project')}} href="#"><i className="fa-solid fa-file-code"></i>Project</a>
               </li>
               <li className="nav-item">
-                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); setValue('resume')}}><i className="fa-solid fa-file"></i>Resume</a>
+                <a className="nav-link" style={white} onClick={(e) => {e.preventDefault(); document.querySelector('.navbar-toggler').classList.add('collapsed'); document.querySelector('.navbar-collapse').classList.remove('show'); setValue('resume')}}><i className="fa-solid fa-file"></i>Resume</a>
               </li>
             </ul>
           </div>

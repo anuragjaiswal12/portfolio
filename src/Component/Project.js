@@ -44,7 +44,7 @@ function Project(){
                                         <div className="card-link">
                                             <a href={element.github} className="btn btn-outline-primary"><i className="fa-brands fa-github" style={white}></i>Github</a>
                                             {
-                                            urlCheker(element.url)
+                                                urlCheker(element.url)
                                             }
                                         </div>
                                     </div>
