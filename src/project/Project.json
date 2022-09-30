@@ -19,7 +19,7 @@
         "name":"Web Scraper",
         "about":"This project is created using Python.",
         "about1":"This is a web scraping script.",
-        "about2":"This script generted 3 csv file of top player data.",
+        "about2":"This script generated 3 csv file of top player data.",
         "github":"https://github.com/anuragjaiswal12/webscrapdemo",
         "url":"https://replit.com/@AnuragJaiswal3/webscrapdemo"
     },
