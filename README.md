@@ -27,9 +27,9 @@ Resume Component
 ## ScreenShots
 ### Home Page
 
-![Home Page](https://github.com/anuragjaiswal12/portfolio/blob/main/images(readme)/home_1.png)
+![Home Page](https://github.com/anuragjaiswal12/portfolio/blob/main/images(readme)/home.png)
 
-![Home Page](https://github.com/anuragjaiswal12/portfolio/blob/main/images(readme)/home_2.png)
+
 
 ### About Page
 ![About Page](https://github.com/anuragjaiswal12/portfolio/blob/main/images(readme)/about_1.png)
