@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.38970ec1.css",
-    "main.js": "/static/js/main.51211051.js",
+    "main.js": "/static/js/main.6394c20a.js",
     "static/js/787.fb771931.chunk.js": "/static/js/787.fb771931.chunk.js",
     "static/media/blob.png": "/static/media/blob.303fbfa14c0c8110987b.png",
     "pdf.worker.js": "/e7e915313973ba1d49f9bb2a1998626e.js",
     "static/media/logo.svg": "/static/media/logo.ffa30088a0a3f8b9754b7ed815cc0d00.svg",
     "static/media/about_img.png": "/static/media/about_img.8e2b50ff30bcb4dbbf0e.png",
-    "static/media/resume.pdf": "/static/media/resume.b5624ec2ebe40d4dbd23.pdf",
+    "static/media/Anurag Jaiswal.pdf": "/static/media/Anurag Jaiswal.c60a3f97268e9cf74f96.pdf",
     "static/media/linux.png": "/static/media/linux.3db32b955e9b61f35998.png",
     "static/media/mysql.png": "/static/media/mysql.bdbd1eb709e4c13258d2.png",
     "static/media/react.png": "/static/media/react.3bf6fb4b18b1f904676d.png",
@@ -27,11 +27,11 @@
     "static/media/html.png": "/static/media/html.cfb2ba4a6b1c3de295bc.png",
     "index.html": "/index.html",
     "main.38970ec1.css.map": "/static/css/main.38970ec1.css.map",
-    "main.51211051.js.map": "/static/js/main.51211051.js.map",
+    "main.6394c20a.js.map": "/static/js/main.6394c20a.js.map",
     "787.fb771931.chunk.js.map": "/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38970ec1.css",
-    "static/js/main.51211051.js"
+    "static/js/main.6394c20a.js"
   ]
 }

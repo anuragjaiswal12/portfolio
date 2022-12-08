@@ -1,7 +1,7 @@
 import React from "react";
 import "./Resume.css";
 import { Document, Page } from "react-pdf/dist/esm/entry.webpack";
-import resume from './../resume/resume.pdf';
+import resume from './../resume/Anurag Jaiswal.pdf';
 
 const margin={
     'margin-bottom':'1rem'
