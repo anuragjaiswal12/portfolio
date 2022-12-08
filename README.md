@@ -1,4 +1,4 @@
-# _[Portfolio](https://anuragjaiswal12.netlify.app/)_
+# _[Portfolios](https://anuragjaiswal12.netlify.app/)_
 
 # About the project
 ### This project is created using React.js(Basic).
